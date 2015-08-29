@@ -12,3 +12,8 @@ License: GPL (>= 2)
 MD5sum: 96a3a1f4d859b60fc83066f66e9d4761
 NeedsCompilation: no
 
+Package: Zillow
+Version: 0.1.0
+MD5sum: a2e932051c0e015deb690cc6f2517baa
+NeedsCompilation: no
+
